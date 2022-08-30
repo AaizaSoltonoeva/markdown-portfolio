@@ -1,4 +1,7 @@
-# <h1> new header <h1>
+# new header
+## header 2
+### header 3
+#### header 4
 layout: default
 ---
 
